@@ -6,9 +6,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR2x_LargeOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR2x</DisplayName>
+      <DisplayName>Ore Detector (2x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR2x</Description>
+      <Description>Ore detector with 2x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -55,9 +55,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR4x_LargeOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR4x</DisplayName>
+      <DisplayName>Ore Detector (4x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR4x</Description>
+      <Description>Ore detector with 4x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -104,9 +104,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR6x_LargeOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR6x</DisplayName>
+      <DisplayName>Ore Detector (6x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR6x</Description>
+      <Description>Ore detector with 6x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -153,9 +153,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR2x_SmallBlockOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR2x</DisplayName>
+      <DisplayName>Ore Detector (2x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR2x</Description>
+      <Description>Ore detector with 2x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -201,9 +201,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR4x_SmallBlockOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR4x</DisplayName>
+      <DisplayName>Ore Detector (4x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR4x</Description>
+      <Description>Ore detector with 4x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -249,9 +249,9 @@
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR6x_SmallBlockOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR6x</DisplayName>
+      <DisplayName>Ore Detector (6x)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR6x</Description>
+      <Description>Ore detector with 6x range. Use with caution as this stresses the game.</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -292,14 +292,15 @@
       <DestroySound>WepSmallWarheadExpl</DestroySound>
       <PCU>240</PCU>      
     </Definition>
-    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition"> <! -- deprecated -->
+
+    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR8x_LargeOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR8x_DEPRECATED</DisplayName>
+      <DisplayName>Ore Detector (8x) (DEPRECATED)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR8x_DEPRECATED</Description>
+      <Description>Deprecated ore detector with 8x range. Use with extreme caution as this stresses the game. It may be removed in future mod updates.</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
@@ -341,14 +342,14 @@
       <DestroySound>WepSmallWarheadExpl</DestroySound>
       <PCU>320</PCU>      
     </Definition>
-    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition"> <! -- deprecated -->
+    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
         <TypeId>OreDetector</TypeId>
         <SubtypeId>KK4DUY_LR8x_SmallBlockOreDetector</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Block_OreDetector_KK4DUY_LR8x_DEPRECATED</DisplayName>
+      <DisplayName>Ore Detector (8x) (DEPRECATED)</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-      <Description>Description_OreDetector_KK4DUY_LR8x_DEPRECATED</Description>
+      <Description>Deprecated ore detector with 8x range. Use with extreme caution as this stresses the game. It may be removed in future mod updates.</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="2" />
