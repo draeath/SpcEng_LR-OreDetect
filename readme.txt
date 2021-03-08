@@ -1,7 +1,9 @@
 Visit my workshop page:
 http://steamcommunity.com/id/KK4DUY/myworkshopfiles/?appid=244850
 
-Longer range Ore Detectors for both Large and Small grids are added, at 2x, 4x and 8x powers.
+UPDATED 2021-03-07: Deprecated 8x detector in favor of a 6x detector. Rewrite files based on current "stock" files. Implemented progression and block groups.
+
+Longer range Ore Detectors for both Large and Small grids are added, at 2x, 4x and 6x powers. The 8x detector still exists so it won't break existing saves/blueprints, but I strongly recommend against it's use.
 
 The only changed items are the range and build component counts, all artwork etc is unchanged.
 
