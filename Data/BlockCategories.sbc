@@ -13,7 +13,7 @@
 			<ItemIds>
 				<string>OreDetector/KK4DUY_LR2x_LargeOreDetector</string>
 				<string>OreDetector/KK4DUY_LR4x_LargeOreDetector</string>
-				<string>OreDetector/KK4DUY_LR8x_LargeOreDetector</string>
+				<string>OreDetector/KK4DUY_LR6x_LargeOreDetector</string>
 			</ItemIds>
 		</Category>
 		
@@ -27,7 +27,7 @@
 			<ItemIds>
 				<string>OreDetector/KK4DUY_LR2x_SmallBlockOreDetector</string>
 				<string>OreDetector/KK4DUY_LR4x_SmallBlockOreDetector</string>
-				<string>OreDetector/KK4DUY_LR8x_SmallBlockOreDetector</string>
+				<string>OreDetector/KK4DUY_LR6x_SmallBlockOreDetector</string>
 			</ItemIds>
 		</Category>
 		

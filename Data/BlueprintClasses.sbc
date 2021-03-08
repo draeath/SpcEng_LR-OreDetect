@@ -4,10 +4,10 @@
 	<BlueprintClassEntries>
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR2x_LargeOreDetector" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR4x_LargeOreDetector" />
-		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR8x_LargeOreDetector" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR6x_LargeOreDetector" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR2x_SmallBlockOreDetector" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR4x_SmallBlockOreDetector" />
-		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR8x_SmallBlockOreDetector" />
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="OreDetector/KK4DUY_LR6x_SmallBlockOreDetector" />
 	</BlueprintClassEntries>
 	
 </Definitions>
